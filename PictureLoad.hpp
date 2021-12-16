@@ -1,0 +1,5 @@
+
+class PictureLoad{
+    public:
+        PictureLoad();
+};
