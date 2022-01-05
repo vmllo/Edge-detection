@@ -15,7 +15,7 @@ class ED
         float rawPicture;
         int Xtemplate[9] = {-1,0,1,-2,0,2,-1,0,1};
         int Ytemplate[9] = {1,1,1,0,0,0,1,0,-1};
-        
+                     
 };                   
                      
 #endif               
